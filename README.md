@@ -1,19 +1,28 @@
-# Zomato-Landing-Page
+# 🍽️ Zomato Landing Page Clone
 
-A responsive front-end clone of the Zomato landing page built using **HTML5** and **CSS3**. This project replicates the look and feel of the Zomato homepage, including the hero section, food categories, collections, app download section, and footer.
+🔗 **Live Demo:** https://razeena-zomato-landing-page.netlify.app/
+
+A responsive front-end clone of the Zomato landing page built using **HTML5** and **CSS3**. This project recreates the modern user interface of Zomato, featuring a hero section, service cards, restaurant collections, app download promotion, and a responsive footer.
 
 ---
 
-## 📌 Features
+## 📸 Preview
+
+Experience a clean and responsive Zomato-inspired landing page designed for both desktop and mobile devices.
+
+---
+
+## ✨ Features
 
 * 🎨 Modern Zomato-inspired UI Design
 * 📱 Fully Responsive Layout
-* 🏠 Hero Section with Search Bar
-* 🍔 Food Ordering & Dining Cards
-* 📍 Restaurant Collections Section
+* 🏠 Hero Section with Search Functionality UI
+* 🍔 Food Ordering & Dining Service Cards
+* 📍 Restaurant Collections Showcase
 * 📲 App Download Promotion Section
-* 🌐 Interactive Footer with Social Links
-* ✨ Smooth Hover Effects & Transitions
+* 🌐 Interactive Footer with Social Media Links
+* ✨ Smooth Hover Effects and Animations
+* 📐 Mobile-Friendly Design using Media Queries
 
 ---
 
@@ -54,61 +63,63 @@ Zomato-Landing-Page/
 
 ---
 
-## 🎯 Sections Included
+## 🎯 Website Sections
 
 ### 🏠 Hero Section
 
-* Navigation Bar
+* Responsive Navigation Bar
 * Zomato Logo
-* Location Input
+* Location Input Field
 * Restaurant Search Bar
 
-### 🍴 Service Cards
+### 🍴 Services Section
 
 * Order Online
 * Dining
-* Nightlife & Clubs
+* Nightlife and Clubs
 * Food Delivery
 
-### 📍 Collections
+### 📍 Collections Section
+
+Curated restaurant collections including:
 
 * Live Cricket Screening
 * Malnad Special
 * Newly Opened Restaurants
-* Trending Pubs
+* Trending Pubs Near Me
 
-### 📲 Get the App
+### 📲 Get the App Section
 
-* Email & Phone Options
-* App Download Links
-* Responsive Layout
+* Email and Phone Options
+* App Download Buttons
+* Mobile Banner Illustration
 
-### 🔗 Footer
+### 🔗 Footer Section
 
 * Company Information
 * Social Media Links
 * Country & Language Selection
-* Legal Information
+* Privacy and Terms Links
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Zomato-Landing-Page.git
+git clone https://github.com/your-username/zomato-landing-page-clone.git
 ```
 
-### Open the Project
+### Navigate to the Project Folder
 
 ```bash
-cd Zomato-Landing-Page
+cd zomato-landing-page-clone
 ```
 
-### Run
+### Open in Browser
 
-Simply open `index.html` in your browser.
+Simply open the `index.html` file in your preferred browser.
 
 ---
 
@@ -116,35 +127,45 @@ Simply open `index.html` in your browser.
 
 The website is optimized for:
 
-* 💻 Desktop
-* 📱 Mobile Devices
+* 💻 Desktop Screens
 * 📟 Tablets
+* 📱 Mobile Devices
 
-Media queries are used to ensure a seamless user experience across different screen sizes.
+Media queries are used to ensure smooth responsiveness across different screen sizes.
 
 ---
 
-## 🎨 Concepts Practiced
+## 🎓 Concepts Practiced
 
-* Flexbox Layout
+* Semantic HTML5
+* CSS Flexbox
 * CSS Grid
 * Responsive Web Design
 * Media Queries
-* Hover Animations
-* Positioning & Overlays
+* Hover Effects & Transitions
+* Positioning and Overlays
 * UI Cloning
-* Component-Based Structure
+* Front-End Development Fundamentals
 
 ---
 
 ## 🔮 Future Improvements
 
-* Add JavaScript Functionality
-* Implement Dark Mode
-* Connect with Restaurant APIs
-* Add Search Suggestions
-* Improve Accessibility
-* Convert into React Application
+* Add JavaScript Interactivity
+* Functional Search Feature
+* Dark Mode Support
+* Restaurant API Integration
+* Enhanced Animations
+* React.js Version
+* Improved Accessibility
+
+---
+
+## 🌐 Live Website
+
+Visit the deployed project:
+
+https://razeena-zomato-landing-page.netlify.app/
 
 ---
 
@@ -153,5 +174,5 @@ Media queries are used to ensure a seamless user experience across different scr
 **Razeena**
 B.Tech Artificial Intelligence and Data Science
 
----
+GitHub: https://github.com/Razeena-04
 
